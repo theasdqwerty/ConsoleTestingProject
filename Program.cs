@@ -6,6 +6,8 @@ namespace ConsoleTestingProject
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("Dev branch");
+            
             Console.WriteLine("Hello kitty");
         }
     }
